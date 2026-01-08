@@ -1,26 +1,10 @@
-
-
-<!--
-**harshit-singhania/harshit-singhania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm Harshit Singhania! 👋
-#### Agentic AI & RAG Engineer | Building Production-Grade Multi-Agent Systems
+#### Agentic AI & RAG Engineer | Researcher in Distributed Systems
 
-I am an AI Engineer specializing in orchestrating multi-agent workflows and building RAG pipelines that solve real-world problems. My focus is on deploying intelligent automation and integrating Vector Databases in fast-paced environments.
+I am an AI Engineer specializing in orchestrating multi-agent workflows and building RAG systems that solve real-world problems. My work bridges the gap between **theoretical research** (Game Theory/Mist Computing) and **production engineering** (Docker/FastAPI).
 
 - 🔭 I’m currently building **Agentic Workflows & Intelligent Automation**
+- 📚 Researching **Distributed Task Scheduling & Game Theory**
 - 🚀 Key Projects: **ThreatSense AI** (Multi-Agent Security) & **RecallForge** (Enterprise RAG)
 - 🧠 I specialize in **LangChain, AutoGen, Qdrant, and Gemini/OpenAI APIs**
 - 📫 Reach me at: **harshitsinghaniawork@gmail.com** or [LinkedIn](https://linkedin.com/in/h-singhania)
@@ -42,20 +26,30 @@ I am an AI Engineer specializing in orchestrating multi-agent workflows and buil
 
 ---
 
+### 📚 Research & Publications
+*Bridging the gap between theory and system implementation.*
+
+| Paper | Description | Domain |
+| :--- | :--- | :--- |
+| **Game Theory for Distributed Task Scheduling in Mist Computing** <br> *(Co-Author)* | Proposed a **Non-Cooperative Game Theoretic Framework** to optimize task scheduling in decentralized Mist environments. <br> • Achieved **Nash Equilibrium** for resource allocation. <br> • Validated 30% improvement in energy efficiency via simulation. | `Game Theory` `Mist Computing` `Distributed Systems` |
+
+---
+
 ### 🌟 Featured Projects
 
-**[ThreatSense AI](LINK_TO_REPO)**
-*Architected a Multi-Agent System where a 'Vision Agent' analyzes video streams and a 'Reasoning Agent' assesses threat severity using Redis for async communication.*
-
-**[RecallForge](LINK_TO_REPO)**
-*Built a RAG-based Knowledge Agent capable of ingesting enterprise data (PDFs/URLs) using Qdrant for semantic retrieval and Gemini 2.0.*
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ThreatSenseAI](https://github.com/harshit-singhania/ThreatSenseAI)** | **Multi-Agent Threat Detection System.** Architected a system where a 'Vision Agent' analyzes streams and a 'Reasoning Agent' assesses threats using async Redis communication. | `LangChain` `Docker` `Gemini` |
+| **[RecallForge](https://github.com/harshit-singhania/recallforge)** | **RAG Knowledge Agent.** Built a RAG agent capable of ingesting enterprise data (PDFs/URLs) using Qdrant for semantic retrieval and Gemini 2.0. | `Qdrant` `Python` `RAG` |
+| **[ArchAI](https://github.com/harshit-singhania/ArchAI)** | **Generative Design Agent.** A Stable Diffusion based tool for generating architectural floorplans from text prompts. Hosted with custom inference pipelines. | `GenAI` `Diffusers` `PyTorch` |
+| **[MemeMind](https://github.com/harshit-singhania/mememind)** | **Viral Content Generator.** An intelligent mobile app using Gemini Vision to generate context-aware memes and videos from photos. | `React Native` `FastAPI` |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="Harshit's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshit-singhania&show_icons=true&theme=radical&hide_border=true" alt="Harshit's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-singhania&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
