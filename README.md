@@ -47,9 +47,10 @@ I am an AI Engineer specializing in orchestrating multi-agent workflows and buil
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=harshit-singhania&show_icons=true&theme=radical&hide_border=true" alt="Harshit's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-singhania&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-singhania&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Harshit's Stats" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-singhania&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
